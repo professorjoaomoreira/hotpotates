@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jcross-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Professor João Moreira</dc:creator>
+    <dc:creator>janainabeneduzi</dc:creator>
+    <dc:title>Palavras Cruzadas</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>Palavras Cruzadas</title>
+
+
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer><reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<crossword>
+<grid><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>E</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>E</cell><cell>-</cell><cell>M</cell><cell>A</cell><cell>R</cell><cell>K</cell><cell>E</cell><cell>T</cell><cell>P</cell><cell>L</cell><cell>A</cell><cell>C</cell><cell>E</cell><cell>S</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>C</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>O</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>M</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>E</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>R</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>B</cell><cell>2</cell><cell>C</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>E</cell><cell>D</cell><cell>I</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></grid>
+
+<clues><item><word>E-MARKETPLACES</word><def>&amp;#x00C9; um local virtual onde se faz com&amp;#x00E9;rcio de bens e servi&amp;#x00E7;os. A palavra &amp;#x00E9; uma jun&amp;#x00E7;&amp;#x00E3;o dos termos ingleses market, que significa &quot;mercado&quot; e place, que significa &quot;lugar&amp;#x201D;.</def></item><item><word>B2C</word><def>&amp;#x00C9; o com&amp;#x00E9;rcio eletr&amp;#x00F4;nico entre a empresa e o consumidor pela internet, sem intermedi&amp;#x00E1;rios. Neg&amp;#x00F3;cio direto com consumidor</def></item><item><word>EDI</word><def>Troca entre computadores de documentos-padr&amp;#x00E3;o de transa&amp;#x00E7;&amp;#x00F5;es, como faturas, conhecimentos de embarque, agendamentos de expedi&amp;#x00E7;&amp;#x00E3;o ou pedidos de compra.</def></item><item><word>E-COMERCE</word><def>Com&amp;#x00E9;rcio Eletr&amp;#x00F4;nico</def></item><item><word>E-COMERCE</word><def>Com&amp;#x00E9;rcio Eletr&amp;#x00F4;nico</def></item><item><word>E-COMERCE</word><def>Com&amp;#x00E9;rcio Eletr&amp;#x00F4;nico</def></item></clues>
+</crossword>
+</data>
+
+<hotpot-config-file>
+<jcross>
+<exercise-subtitle>Palavras Cruzadas:</exercise-subtitle>
+<instructions>Completar as palavras cruzadas, em seguida, clique em &quot;Verificar&quot; para verificar a sua resposta. Se voc&amp;#x00EA; n&amp;#x00E3;o consegue avan&amp;#x00E7;ar ent&amp;#x00E3;o, voc&amp;#x00EA; pode clicar em &quot;Hint&quot; para obter uma dica. Clique em um n&amp;#x00FA;mero na grade para ver a pista ou pistas para esse n&amp;#x00FA;mero.Lembro que cada pista diminui sua nota.</instructions>
+<guess-correct>Correto! Bem feito.</guess-correct>
+<guess-incorrect>Algumas de suas respostas est&amp;#x00E3;o incorretas.</guess-incorrect>
+<clues-across>Atrav&amp;#x00E9;s:</clues-across>
+<clues-down>Baixa:</clues-down>
+<next-correct-letter>Foi acrescentada uma letra correta.</next-correct-letter>
+<include-keypad>0</include-keypad>
+<include-clue-list>0</include-clue-list>
+<enter-caption>Entrar</enter-caption>
+<include-hint>1</include-hint>
+<case-sensitive>0</case-sensitive>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<separate-javascript-file>0</separate-javascript-file>
+</jcross>
+
+<global>
+<your-score-is>Sua pontua&amp;#x00E7;&amp;#x00E3;o &amp;#x00E9;</your-score-is>
+<check-caption>Verificar</check-caption>
+<ok-caption>OK</ok-caption>
+<hint-caption>sugest&amp;#x00E3;o</hint-caption>
+<keypad-characters></keypad-characters>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<next-ex-caption>Pr&amp;#x00F3;ximo Exerc&amp;#x00ED;cio</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Indice</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Arial</font-face>
+<font-size>small</font-size>
+<page-bg-color>#8080c0</page-bg-color>
+<title-color>#400040</title-color>
+<ex-bg-color>#ffffff</ex-bg-color>
+<text-color>#400040</text-color>
+<link-color>#0000ff</link-color>
+<vlink-color>#0000ff</vlink-color>
+<nav-bar-color>#8080ff</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>um</user-string-1>
+<user-string-2>dois</user-string-2>
+<user-string-3>tr&amp;#x00EA;s</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jcross-file>
